@@ -1,19 +1,14 @@
-# Title
+# Challenge: Convert boolean values to strings 'Yes' or 'No'.
 
-Convert boolean values to strings 'Yes' or 'No'.
+Complete the method that takes a boolean value and return a `"Yes"` string for `true`, or a `"No"` string for `false`.
+* [Challenge](https://www.codewars.com/kata/53369039d7ab3ac506000467)
 
-# Link
+# Notes and Solutions
 
-https://www.codewars.com/kata/53369039d7ab3ac506000467
+Pretty straightforward use of a ternary expression.
+
+* [My Solution](solution.js)
 
 # Difficulty rank
 
-8 kyu
-
-# Description
-
-Complete the method that takes a boolean value and return a `"Yes"` string for `true`, or a `"No"` string for `false`.
-
-# Notes
-
-Pretty straightforward use of a ternary expression.
+[8 kyu](https://docs.codewars.com/gamification/ranks)
