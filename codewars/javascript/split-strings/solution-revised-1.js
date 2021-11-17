@@ -3,6 +3,6 @@
 
 function solution(str) {
   const sol = str.match(/.{2}?/g) || [];
-  if (str.length % 2) sol.push(str[str.length - 1] + "_");
+  if (str.length % 2) sol.push(str[str.length - 1] + '_');
   return sol;
 }
