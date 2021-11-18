@@ -19,8 +19,14 @@ The latest solution file is always `solution.(language suffix)`
 
 Description files have:
 
-1. Challenge title
-1. Link to the challenge
-1. Difficulty rank (on Codewars, lower numbers are more difficult)
-1. Description (this is copied from the challenge)
-1. Notes (my personal notes about the challenge, explaining how I solved it)
+<ol>
+  <li>Challenge title
+  <li>Challenge description
+  <li>Link to the challenge
+  <li>Notes and solutions
+    <ol>
+      <li>My personal notes about the challenge, explaining how I solved it
+      <li>All of my solutions to the challenge, past and current
+    </ol>
+  <li>Difficulty rank (on Codewars, lower numbers are more difficult)
+</ol>
