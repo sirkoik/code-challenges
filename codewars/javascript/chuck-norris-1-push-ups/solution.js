@@ -8,7 +8,7 @@ function chuckPushUps(string) {
       ...string
         .replace(/[^01 ]/gi, '')
         .split(/\s+/)
-        .map((binStr) => parseInt(binStr, 2) || 0)
+        .map(binStr => parseInt(binStr, 2) || 0)
     ) || 'CHUCK SMASH!!'
   );
 }
