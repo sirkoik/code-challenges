@@ -33,4 +33,4 @@ My solution iterates through the `coords` array and removes characters in the `l
 
 # Difficulty rank
 
-[ kyu](https://docs.codewars.com/gamification/ranks)
+[7 kyu](https://docs.codewars.com/gamification/ranks)
